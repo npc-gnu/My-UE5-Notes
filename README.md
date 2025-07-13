@@ -3,8 +3,7 @@
 > ⚠️ First, this repo is in Turkish. If you want to add other languages, feel free to send a pull request!
 
 - Merhabalar. Bu depo, Unreal Engine 5 üzerine çevrimiçi eğitimler sırasında edindiğim kişisel notları ve bunlardan oluşturulmuş podcastleri içermektedir.
-- Eğitmenlere destek olmak adına orijinal içerikleri izlemeyi ve satın almayı unutmayın.
-- Bazı bölümler için kendi hazırlayacağım görselleri eklemeyi planlıyorum. (Ekran görüntüsü paylaşılmamaktadır.)
+- Bazı bölümler için kendi hazırlayacağım görselleri eklemeyi planlıyorum. 
 
 ## Yardım
 Eğer katkıda bulunmak isterseniz:
